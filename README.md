@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielFromRussia30
-- 👀 I’m interested in programming and hacking
+- 👀 I’m interested in programming and hacking, ahahah
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me google_Was_my_idea@
