@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DanielFromRussia30
-- 👀 I’m interested in programming and hacking, ahahah
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me google_Was_my_idea@
+<div id="header" align="center">
+  <h1>Hi there, I'm Danil</h1>
+  <h3>Junior JavaScript developer from Russia</h3>
+</div>
 
-<!---
-DanielFromRussia30/DanielFromRussia30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="socials" align="center">
+  <a href="https://t.me/cute_ass_ducks">
+  <img src="https://icons8.com/icon/25n4hOEoY7ss/telegram-app" alt="telegram"/>
+  </a>
+</div>
